@@ -16,6 +16,7 @@ function Food(){
         if(this.x == sk.x && this.y == sk.y) {
             this.loc();
             if(sk.total >= sk.high){
+                console.log("highscore plus one");
                 sk.high++;
             }
             sk.total ++;
