@@ -1,0 +1,22 @@
+#menubar{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align: center;
+    width:300;}
+
+li{
+    display:inline-block;
+    text-align: center;
+    padding: 5px 15px;
+    font-size:30;
+}
+
+li:hover{
+    background-color:dimgray;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
