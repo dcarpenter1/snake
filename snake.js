@@ -5,7 +5,7 @@ function Snake() {
     this.yspeed = 0;
     this.total = 0;
     this.body = [];
-    this.high = 43;
+    this.high = 51;
     
     this.end = function () {
         for(var i = 0; i < this.body.length; i++){
