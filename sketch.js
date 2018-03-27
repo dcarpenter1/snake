@@ -1,7 +1,7 @@
 var scl = 20;
 var sk;
 var fd;
-var rdcol = ["white"];
+var rdcol = ["blue", "red"];
 var i = 0;
 
 function setup() {
