@@ -1,3 +1,7 @@
+html{
+    background-color:grey;
+}
+
 #menubar{
     list-style-type:none;
     margin:0;
