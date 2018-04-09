@@ -13,6 +13,7 @@ function setup() {
 }
 
 function draw() {
+    background(51);
     sk.end();
     fd.show();
     sk.update();
