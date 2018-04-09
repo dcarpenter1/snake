@@ -44,6 +44,7 @@ function keyPressed() {
     }
     
     if(keyCode === ENTER){
-        sk.total ++;
+        sk.xspeed = 0;
+        sk.yspeed = 0;
     }
 }
